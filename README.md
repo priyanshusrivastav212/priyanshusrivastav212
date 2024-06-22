@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Srivastav</h1>
+<h1 align="left">Hi 👋, I'm Priyanshu Srivastav</h1>
 <h3 align="center">Final year CSE undergrad and passionate ML enthusiast, aspiring to be a skilled and innovative data scientist.</h3>
 
 - 🌱 I’m currently learning **Google Advance Data Analytics**
