@@ -15,3 +15,5 @@
 <h3 align="left">Languages and Tools:</h3>
 
 - Programming - Python, C, C++, SQL
+- Libraries - TensorFlow, Keras, Tableau, PowerBI, Jupyter, NumPy, Pandas, MatPlotLib, Scikit-Learn, PyTorch
+- Visualization - PowerBI
