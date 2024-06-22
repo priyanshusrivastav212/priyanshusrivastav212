@@ -10,8 +10,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1VR_D-dAAZzkLHkh7Jgd9fOIqMZtqH5Ei/view?usp=sharing](https://drive.google.com/file/d/1VR_D-dAAZzkLHkh7Jgd9fOIqMZtqH5Ei/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
