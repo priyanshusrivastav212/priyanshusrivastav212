@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently learning **Google Advance Data Analytics**
 
-- 👨‍💻 All of my projects are available at [GitHub Repo](https://github.com/priyanshusrivastav212/Projects_ML)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/priyanshusrivastav212/Projects_ML)
 
 - 📫 How to reach me **priyanshu.0702@gmail.com** ,<a href="https://www.linkedin.com/in/srivastav-priyanshu/" target="_blank">LinkedIn</a>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VR_D-dAAZzkLHkh7Jgd9fOIqMZtqH5Ei/view?usp=sharing](https://drive.google.com/file/d/1VR_D-dAAZzkLHkh7Jgd9fOIqMZtqH5Ei/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VR_D-dAAZzkLHkh7Jgd9fOIqMZtqH5Ei/view?usp=sharing)
 
 </p>
 
