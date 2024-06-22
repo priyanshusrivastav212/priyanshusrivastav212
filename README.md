@@ -13,4 +13,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-</a> </p>
+- Programming - Python, C, C++, SQL
