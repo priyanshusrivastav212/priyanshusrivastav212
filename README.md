@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Priyanshu Srivastav</h1>
-<img src="https://drive.google.com/uc?export=view&id=1g8oMa5OrxpEcZ2ejnFfU_CkQgByyOJkh" alt="Priyanshu Srivastav" width="1500" height="200">
+<img src="https://drive.google.com/uc?export=view&id=1g8oMa5OrxpEcZ2ejnFfU_CkQgByyOJkh" alt="Priyanshu Srivastav" width="1584" height="300">
 <h3 align="left">Final year CSE undergrad and passionate ML enthusiast, aspiring to be a skilled and innovative data scientist.</h3>
 
 - 🌱 I’m currently learning **Google Advance Data Analytics**
