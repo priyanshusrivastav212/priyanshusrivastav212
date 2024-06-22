@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Priyanshu Srivastav</h1>
-<img src="(https://ibb.co/PTHWgCq)" alt="Priyanshu Srivastav" width="200" height="200">
+<img src="[https://ibb.co/PTHWgCq]" alt="Priyanshu Srivastav" width="200" height="200">
 <h3 align="left">Final year CSE undergrad and passionate ML enthusiast, aspiring to be a skilled and innovative data scientist.</h3>
 
 - 🌱 I’m currently learning **Google Advance Data Analytics**
