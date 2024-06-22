@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Google Advance Data Analytics**
 
-- 👨‍💻 All of my projects are available at [https://github.com/priyanshusrivastav212/Projects_ML](https://github.com/priyanshusrivastav212/Projects_ML)
+- 👨‍💻 All of my projects are available at <a href="[https://www.linkedin.com/in/srivastav-priyanshu/](https://github.com/priyanshusrivastav212/Projects_ML)" target="_blank">GitHub Repo</a>
 
 - 📫 How to reach me **priyanshu.0702@gmail.com** ,<a href="https://www.linkedin.com/in/srivastav-priyanshu/" target="_blank">LinkedIn</a>
 
