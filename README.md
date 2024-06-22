@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/priyanshusrivastav212/Projects_ML](https://github.com/priyanshusrivastav212/Projects_ML)
 
-- 📫 How to reach me **priyanshu.0702@gmail.com**
+- 📫 How to reach me **priyanshu.0702@gmail.com** <a href="https://www.linkedin.com/in/srivastav-priyanshu/" target="_blank">LinkedIn</a>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1VR_D-dAAZzkLHkh7Jgd9fOIqMZtqH5Ei/view?usp=sharing](https://drive.google.com/file/d/1VR_D-dAAZzkLHkh7Jgd9fOIqMZtqH5Ei/view?usp=sharing)
 
